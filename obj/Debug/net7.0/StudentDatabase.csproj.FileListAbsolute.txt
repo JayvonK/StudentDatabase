@@ -62,3 +62,7 @@ C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week2\StudentDataba
 C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week2\StudentDatabase\obj\Debug\net7.0\StudentDatabase.pdb
 C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week2\StudentDatabase\obj\Debug\net7.0\StudentDatabase.genruntimeconfig.cache
 C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week2\StudentDatabase\obj\Debug\net7.0\ref\StudentDatabase.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week2\StudentDatabase\bin\Debug\net7.0\Humanizer.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week2\StudentDatabase\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week2\StudentDatabase\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\DS Level 2\Week2\StudentDatabase\bin\Debug\net7.0\System.CodeDom.dll
