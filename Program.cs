@@ -5,7 +5,8 @@ using StudentDatabase.Services.StudentDirectory;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<DataContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("DatabaseConnection")));
+builder.Services.AddDbContext<DataContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("DatabaseConnection"))
+);
 
 
 builder.Services.AddControllers();
